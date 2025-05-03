@@ -352,7 +352,7 @@ def get_epg_url():
     if os.getenv("GITHUB_ACTIONS"):
         repository = os.getenv("GITHUB_REPOSITORY", "Guovin/iptv-api")
         ref = os.getenv("GITHUB_REF", "gd")
-        return join_url(config.cdn_url, f"https://raw.githubusercontent.com/{repository}/{ref}/output/epg/epg.gz")
+        return join_url(config.cdn_url, f"https://gh.tryxd.cn/raw.githubusercontent.com/{repository}/{ref}/output/epg/epg.gz")
     else:
         return f"{get_ip_address()}/epg/epg.gz"
 
