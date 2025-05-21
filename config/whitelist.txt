@@ -8,3 +8,4 @@ https://raw.githubusercontent.com/1757580896/ivp/main/result.m3u
 # liao ning
 https://raw.githubusercontent.com/1757580896/ivp3/main/result.m3u
 # https://raw.githubusercontent.com/1757580896/ipv6/main/IPTV.m3u # PltV v6 
+https://raw.githubusercontent.com/1757580896/gangao/main/result.m3u
