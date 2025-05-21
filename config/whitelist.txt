@@ -23,3 +23,4 @@ https://gh-proxy.com/raw.githubusercontent.com/1757580896/my-iptv/main/IPTV-ipv4
 https://raw.githubusercontent.com/1757580896/my-iptv/main/IPTV-ipv6.m3u
 https://raw.githubusercontent.com/ldm0206/iptv-api/master/output/ipv4/result.txt
 https://ghfast.top/raw.githubusercontent.com/1757580896/tvyuan/main/%E8%BE%BD%E5%AE%81%E7%A7%BB%E5%8A%A8V6.txt
+https://raw.githubusercontent.com/1757580896/gangao/main/result.m3u
