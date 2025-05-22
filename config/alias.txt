@@ -25,11 +25,14 @@ CCTV-4美洲,CCTV4美洲,CCTV4美洲咪咕
 CCTV-4欧洲,CCTV4欧洲,CCTV4欧洲咪咕
 CCTV-4K,CCTV4K,cctv4k_10m,CCTV4K超高清,CCTV-4K超高清,CCTV-4k高码,CCTV-4K广西,CCTV-4k浙江
 CCTV-8K,CCTV8K,CCTV8K 超高清,CCTV-8K超高清[3840*2160],cctv8k_120m,cctv8k_36m,CCTV8K超高清,CCTV-8k高码
-CETV1,CETV-1,中国教育1台,中国教育1
-CETV2,CETV-2,中国教育2台,中国教育2
-CETV3,CETV-3,中国教育3台,中国教育3
-CETV4,CETV-4,中国教育4台,中国教育4
+CETV-1,CETV1,CETV1中国教育,CETV1 中国教育,中国教育1,中国教育1HD
+CETV-2,CETV2,CETV2中国教育,CETV2 中国教育,中国教育2,中国教育2HD
+CETV-3,CETV3,CETV3中国教育,CETV3 中国教育,中国教育3,中国教育3HD
+CETV-4,CETV4,CETV4中国教育,CETV4 中国教育,中国教育4,中国教育4HD
 CETV5,CETV-5,中国教育5台,中国教育5
+CETV早教,CETV早期教育,早期教育
+CGTN英语,CGTN英语新闻
+CGTN俄语,CGTN俄罗斯语
 CGTN西语,CGTN西班牙语
 CGTN阿语,CGTN阿拉伯语
 文化精品,CCTV文化精品,CCTV-文化精品
