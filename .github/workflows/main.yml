@@ -8,6 +8,10 @@ on:
       - master
       - dev
       - gd
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
